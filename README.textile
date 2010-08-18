@@ -1,4 +1,8 @@
-h1. Big Analytics
+<pre><code>BBBB  III  GGG       AA  N   N  AA  L    Y   Y TTTTTT III  CCC  SSS  
+B   B  I  G         A  A NN  N A  A L     Y Y    TT    I  C    S     
+BBBB   I  G  GG     AAAA N N N AAAA L      Y     TT    I  C     SSS  
+B   B  I  G   G     A  A N  NN A  A L      Y     TT    I  C        S 
+BBBB  III  GGG      A  A N   N A  A LLLL   Y     TT   III  CCC SSSS  </code></pre>
 
 A simple Google App Engine site that prints out a big list of trending keywords. Intended for display on a large vertical monitor in the newsroom. 
 
