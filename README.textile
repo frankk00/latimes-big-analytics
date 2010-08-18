@@ -1,0 +1,6 @@
+h1. Big Analytics
+
+A simple Google App Engine site that prints out a big list of trending keywords. Intended for display on a large vertical monitor in the newsroom. 
+
+* Google: "http://big-analytics.appspot.com/":http://big-analytics.appspot.com/
+* Twitter: "http://big-analytics.appspot.com/?feed=twitter":http://big-analytics.appspot.com/?feed=twitter
